@@ -1,0 +1,26 @@
+@import 'base/normalize.css';
+@import 'base/reset.css';
+
+@import 'cabecalho/cabecalho.css';
+@import 'cabecalho/logo/logo.css';
+@import 'cabecalho/menu/menu.css';
+@import 'cabecalho/menu/__lista/menu__lista.css';
+@import 'cabecalho/menu/__lista/__item/menu__item.css';
+@import 'cabecalho/menu/__lista/__item/__link/menu__link.css';
+@import 'cabecalho/menu/__lista/__item/-ativo/menu_ativo.css';
+
+@import 'sobre/sobre.css';
+@import 'sobre/__titulo/sobre__titulo.css';
+@import 'sobre/__descricao/sobre__descricao.css';
+
+@import 'banner/banner.css';
+@import 'banner/__imagem/banner__imagem.css';
+@import 'banner/__titulo/banner__titulo.css';
+
+@import 'receitas/receitas.css';
+@import 'receitas/receita/receita.css';
+@import 'receitas/receita/__imagem/receita__imagem.css';
+@import 'receitas/receita/__conteudo/receita__conteudo.css';
+@import 'receitas/receita/__conteudo/__titulo/receita__titulo.css';
+@import 'receitas/receita/__conteudo/__descricao/receita__descricao.css';
+@import 'receitas/receita/botao/botao.css';
