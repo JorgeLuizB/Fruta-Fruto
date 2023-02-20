@@ -1,13 +1,13 @@
 @import url('base/normalize.css');
 @import url('base/reset.css');
 
-@import url('https://github.com/JorgeLuizB/Fruta-Fruto/blob/main/assets/css/cabecalho/cabecalho.css');
-@import url('https://github.com/JorgeLuizB/Fruta-Fruto/blob/main/assets/css/cabecalho/logo/logo.css');
-@import url('https://github.com/JorgeLuizB/Fruta-Fruto/blob/main/assets/css/cabecalho/menu/menu.css');
-@import url('https://github.com/JorgeLuizB/Fruta-Fruto/blob/main/assets/css/cabecalho/menu/__lista/menu__lista.css');
-@import url('https://github.com/JorgeLuizB/Fruta-Fruto/blob/main/assets/css/cabecalho/menu/__lista/__item/menu__item.css');
-@import url('https://github.com/JorgeLuizB/Fruta-Fruto/blob/main/assets/css/cabecalho/menu/__lista/__item/__link/menu__link.css');
-@import url('https://github.com/JorgeLuizB/Fruta-Fruto/blob/main/assets/css/cabecalho/menu/__lista/__item/-ativo/menu_ativo.css');
+@import url('cabecalho/cabecalho.css');
+@import url('cabecalho/logo/logo.css');
+@import url('cabecalho/menu/menu.css');
+@import url('cabecalho/menu/__lista/menu__lista.css');
+@import url('cabecalho/menu/__lista/__item/menu__item.css');
+@import url('cabecalho/menu/__lista/__item/__link/menu__link.css');
+@import url('assets/css/cabecalho/menu/__lista/__item/-ativo/menu_ativo.css');
 
 @import url('sobre/sobre.css');
 @import url('sobre/__titulo/sobre__titulo.css');
@@ -26,9 +26,9 @@
 @import url('receitas/receita/botao/botao.css');
 @import url('receitas/receita/botao/-hover/botao_hover.css');
 
-@import url('./quem.somos/quem-somos.css');
-@import url('./quem.somos/__descricao/quem-somos__descricao.css');
-@import url('./quem.somos/__titulo/quem-somos__titulo.css');
+@import url('quem.somos/quem-somos.css');
+@import url('quem.somos/__descricao/quem-somos__descricao.css');
+@import url('quem.somos/__titulo/quem-somos__titulo.css');
 
 @import url('quem.somos/pessoas/pessoas.css');
 
