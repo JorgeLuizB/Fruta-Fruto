@@ -25,3 +25,17 @@
 @import 'receitas/receita/__conteudo/__descricao/receita__descricao.css';
 @import 'receitas/receita/botao/botao.css';
 @import 'receitas/receita/botao/-hover/botao_hover.css';
+
+@import 'quem.somos/quem-somos.css';
+@import 'quem.somos/__descricao/quem-somos__descricao.css';
+@import 'quem.somos/__titulo/quem-somos__titulo.css';
+
+@import 'quem.somos/pessoas/pessoas.css';
+
+@import 'quem.somos/pessoas/pessoa/pessoa.css';
+@import 'quem.somos/pessoas/pessoa/__funcao/pessoa__funcao.css';
+@import 'quem.somos/pessoas/pessoa/__nome/pessoa__nome.css';
+@import 'quem.somos/pessoas/pessoa/__imagem/pessoa__imagem.css';
+@import 'quem.somos/pessoas/pessoa/__imagem/-andreia/pessoa__imagem_andreia.css';
+@import 'quem.somos/pessoas/pessoa/__imagem/-marcela/pessoa__imagem_marcela.css';
+@import 'quem.somos/pessoas/pessoa/__imagem/-roberta/pessoa__imagem_roberta.css';
