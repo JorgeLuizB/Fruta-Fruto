@@ -2,12 +2,12 @@
 @import url('base/reset.css');
 
 @import url('cabecalho/cabecalho.css');
-@import url('cabecalho/logo/logo.css');
-@import url('cabecalho/menu/menu.css');
-@import url('cabecalho/menu/__lista/menu__lista.css');
-@import url('cabecalho/menu/__lista/__item/menu__item.css');
-@import url('cabecalho/menu/__lista/__item/__link/menu__link.css');
-@import url('assets/css/cabecalho/menu/__lista/__item/-ativo/menu_ativo.css');
+@import url('../../assets/css/cabecalho/logo/logo.css');
+@import url('../../assets/css/cabecalho/menu/menu.css');
+@import url('../../assets/css/cabecalho/menu/__lista/menu__lista.css');
+@import url('../../assets/css/cabecalho/menu/__lista/__item/menu__item.css');
+@import url('../../assets/css/cabecalho/menu/__lista/__item/__link/menu__link.css');
+@import url('../../assets/css/assets/css/cabecalho/menu/__lista/__item/-ativo/menu_ativo.css');
 
 @import url('sobre/sobre.css');
 @import url('sobre/__titulo/sobre__titulo.css');
