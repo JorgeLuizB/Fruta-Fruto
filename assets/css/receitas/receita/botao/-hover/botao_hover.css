@@ -1,0 +1,4 @@
+.botao_hover:hover{
+    background-color: #620404;
+    transition: .2s all ease-in-out;
+}

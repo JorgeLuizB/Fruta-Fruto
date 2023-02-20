@@ -1,5 +1,7 @@
 .receita{
     width: 286px;
-    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    background-color: #fdfdfd;
     border: 1px solid #C4C4C4;
 }

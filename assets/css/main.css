@@ -24,3 +24,4 @@
 @import 'receitas/receita/__conteudo/__titulo/receita__titulo.css';
 @import 'receitas/receita/__conteudo/__descricao/receita__descricao.css';
 @import 'receitas/receita/botao/botao.css';
+@import 'receitas/receita/botao/-hover/botao_hover.css';
