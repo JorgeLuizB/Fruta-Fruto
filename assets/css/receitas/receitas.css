@@ -1,9 +1,9 @@
 .receitas{
-    justify-content: center;
-    margin: auto;
-    padding: 5rem 15rem;
+    background-color: #e5e5e5;
     display: flex;
     flex-wrap: wrap;
     gap: 104px;
-    background-color: #e5e5e5;
+    justify-content: center;
+    margin: auto;
+    padding: 5rem 15rem;
 }
